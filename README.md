@@ -1,5 +1,7 @@
 <h1 align="center">Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+Junior+Frontend+developer)](https://git.io/typing-svg)
+
 ### Стэк технологий: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
