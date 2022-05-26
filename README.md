@@ -1,5 +1,7 @@
 <h1 align="center">Hello! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35"/></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=23F71D&lines=My+name+is+Alexander!)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F71E1D&lines=I+Junior+Frontend+developer)](https://git.io/typing-svg)
 
 ### Стэк технологий: 
